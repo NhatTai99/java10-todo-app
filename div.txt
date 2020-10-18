@@ -1,4 +1,4 @@
-private int sum(int a, int b){
+private int div(int a, int b){
 if(a / b > Integer.MAX){
 throw new RuntimeException();
  }
